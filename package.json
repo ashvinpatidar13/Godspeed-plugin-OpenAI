@@ -1,9 +1,0 @@
-{
-  "name": "godspeed-plugin-openai",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "commonjs",
-  "dependencies": {
-    "axios": "^1.9.0"
-  }
-}
